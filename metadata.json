@@ -1,0 +1,7 @@
+{
+  "name": "BioForge: Genetic Engineering Lab",
+  "description": "A cutting-edge biological engineering simulator where you can design, synthesize, and visualize new species of plants, animals, and mythical creatures using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
